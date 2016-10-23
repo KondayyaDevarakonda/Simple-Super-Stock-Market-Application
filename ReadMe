@@ -1,0 +1,15 @@
+JPMorgan - Super simple stock market
+
+Note:
+
+To Run the application using StockMarketApplication Main Program to Execute.
+
+Please following below instruction to calculate the GBCE Share Index
+
+#### Options:
+1: Calculate dividend yield for stock
+2: Calculate P/E ratio for stock
+3: Record a trade for stock
+4: Calculate Volume Weighted Stock Price for stock
+5: Calculate GBCE All Share Index
+q: Quit
